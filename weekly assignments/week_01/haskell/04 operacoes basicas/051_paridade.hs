@@ -1,0 +1,1 @@
+paridade xs = if odd (sum (map (\x -> 1) (filter (\x -> x == True) xs))) then True else False

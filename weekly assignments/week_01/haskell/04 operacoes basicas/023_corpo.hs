@@ -1,0 +1,1 @@
+corpo xs = init xs

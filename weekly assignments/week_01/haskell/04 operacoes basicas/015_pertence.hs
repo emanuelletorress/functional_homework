@@ -1,0 +1,1 @@
+pertence x u = x `elem` u

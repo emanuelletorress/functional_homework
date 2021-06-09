@@ -1,0 +1,1 @@
+intersec xs ys = xs `intersec` ys

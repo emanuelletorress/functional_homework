@@ -1,0 +1,1 @@
+somaImpares = sum . filter (odd)

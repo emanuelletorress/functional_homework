@@ -1,0 +1,1 @@
+splitints xs = (filter odd xs, filter even xs)
