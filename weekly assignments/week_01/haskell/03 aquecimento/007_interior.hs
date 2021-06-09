@@ -1,0 +1,1 @@
+interior = tail . init

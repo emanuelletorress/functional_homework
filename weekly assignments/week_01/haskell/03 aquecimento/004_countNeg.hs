@@ -1,0 +1,1 @@
+countNeg = length . filter ( < 0)
