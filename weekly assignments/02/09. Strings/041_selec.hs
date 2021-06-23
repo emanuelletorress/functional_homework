@@ -1,0 +1,1 @@
+selec u p = [u !! num | num <- p]
